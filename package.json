@@ -1,0 +1,10 @@
+{
+  "name": "com.ra6an.proceduralui",
+  "version": "1.0.0",
+  "displayName": "Procedural UI",
+  "description": "Procedural UI Image with border, gradients, fill, radial, hollow and blur.",
+  "unity": "2022.3",
+  "author": {
+    "name": "ra6an"
+  }
+}
