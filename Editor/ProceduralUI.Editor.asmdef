@@ -1,14 +1,14 @@
 {
     "name": "ProceduralUI.Editor",
-    "references": [
-        "UnityEditor",
-        "ProceduralUI.Runtime"
-    ],
-    "includePlatforms": ["Editor"],
+    "rootNamespace": "ProceduralUI",
+    "references": [],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
+    "precompiledReferences": [],
     "autoReferenced": true,
     "defineConstraints": [],
-    "versionDefines": []
+    "versionDefines": [],
+    "noEngineReferences": false
 }
