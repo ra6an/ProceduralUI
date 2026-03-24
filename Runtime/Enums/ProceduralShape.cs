@@ -1,6 +1,9 @@
-public enum ProceduralShape
+namespace ProceduralUI 
 {
-    Rectangle,
-    Rounded,
-    Circle
+    public enum ProceduralShape
+    {
+        Rectangle,
+        Rounded,
+        Circle
+    }
 }

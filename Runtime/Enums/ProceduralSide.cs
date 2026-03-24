@@ -1,7 +1,10 @@
-public enum ProceduralSide
+namespace ProceduralUI
 {
-    Top,
-    Right,
-    Bottom,
-    Left
+    public enum ProceduralSide
+    {
+        Top,
+        Right,
+        Bottom,
+        Left
+    }
 }

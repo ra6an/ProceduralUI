@@ -1,5 +1,6 @@
 ﻿using UnityEditor;
 using UnityEngine;
+using ProceduralUI;
 
 [CustomEditor(typeof(ProceduralImage))]
 public class ProceduralImageEditor : Editor

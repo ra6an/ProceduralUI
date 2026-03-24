@@ -1,6 +1,8 @@
-public enum ProceduralModifier
-{
-    Uniform,
-    Free,
-    Sides
+namespace ProceduralUI {
+    public enum ProceduralModifier
+    {
+        Uniform,
+        Free,
+        Sides
+    }
 }
